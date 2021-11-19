@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RijksmuseumApp</string>
+    <string name="hint_search">Search…</string>
+    <string name="title_error_dialog">Error</string>
+    <string name="label_title">Title: %s1</string>
+    <string name="label_marker">Marker: %s1</string>
+    <string name="label_production_places">Production Places: %s1</string>
+</resources>

@@ -1,0 +1,343 @@
+{
+  "elapsedMilliseconds": 0,
+  "count": 738802,
+  "countFacets": {
+    "hasimage": 524822,
+    "ondisplay": 8494
+  },
+  "artObjects": [
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/BK-AM-33",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/BK-AM-33"
+      },
+      "id": "nl-BK-AM-33",
+      "objectNumber": "BK-AM-33",
+      "title": "Pleurants van het praalgraf van Isabella van Bourbon",
+      "hasImage": true,
+      "principalOrFirstMaker": "Borman werkplaats, Renier van Thienen (I)",
+      "longTitle": "Pleurants van het praalgraf van Isabella van Bourbon, Borman werkplaats (toegeschreven aan), Renier van Thienen (I) (toegeschreven aan), ca. 1475 - ca. 1476",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "5b29ba1c-4c23-49c6-8bb6-2253ddbb560b",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2500,
+        "height": 1328,
+        "url": "https://lh5.ggpht.com/LE3ggDaLAIwTIOknJm06U2Y_qNffQ0133bWQxnWfDtzi12uWE85MYWtYwvo8eQZx1tc-U-vH_-2ZIoDGYUUrs8YklQ=s0"
+      },
+      "headerImage": {
+        "guid": "16a2d053-448a-435a-8148-a1e758438d5b",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 2447,
+        "height": 586,
+        "url": "https://lh5.ggpht.com/VI07cMuwb81W4q4UkIMaQaPoV9vJnZDR105Ib4lbchJsKHon4pgdRZMqHuqY4k4Q2NyhnYyIQxZQrPab-VY7JbrgmqaF=s0"
+      },
+      "productionPlaces": [
+        "? Brussel (stad)",
+        "Brussel (stad)"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/BK-2000-17",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/BK-2000-17"
+      },
+      "id": "nl-BK-2000-17",
+      "objectNumber": "BK-2000-17",
+      "title": "Zelfportret",
+      "hasImage": true,
+      "principalOrFirstMaker": "Johan Gregor van der Schardt",
+      "longTitle": "Zelfportret, Johan Gregor van der Schardt, ca. 1573 - ca. 1580",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "876a46b0-9d66-4d1f-8a29-0ad06c2bade8",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 3000,
+        "height": 2521,
+        "url": "https://lh3.googleusercontent.com/FjUHATQW1qcRggtsD9L9SXeeFHVpBCvQ-taIof6oRh2U_6-wI6Oycr7As85EEty5_hXypsdLdhs7HZQay4aRnWf_xGhnAVb23olEUes=s0"
+      },
+      "headerImage": {
+        "guid": "717fb9f6-daf4-4031-8653-b163f6764137",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/3Pr6dZbLsvywtlEVHiONIoaravHYaAP_T7WiQ2hWexacsZ2Tn6eEmN8syJ1qER5nvw7PD7cabdsc9QnM0r3wfWFFAUh-omKO6FdnGt4T=s0"
+      },
+      "productionPlaces": [
+        "Neurenberg"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/NG-NM-7687",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/NG-NM-7687"
+      },
+      "id": "nl-NG-NM-7687",
+      "objectNumber": "NG-NM-7687",
+      "title": "Klok en kruithoorn",
+      "hasImage": true,
+      "principalOrFirstMaker": "anoniem",
+      "longTitle": "Klok en kruithoorn, anoniem, ca. 1590 - ca. 1596",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "05f438f9-f42d-4fec-ad6f-0feb3b08fed2",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 1,
+        "width": 1672,
+        "height": 2500,
+        "url": "https://lh3.ggpht.com/lAJ1wnr_hEOncOfh9eKzvaS8w-fhLLq5yGlzHBctnjgyOzsbuP4cGIqP4q0A-YvnyXBhJi96il6NIZNhRVW-BVg2lW0=s0"
+      },
+      "headerImage": {
+        "guid": "7bf07c8d-4ecb-452d-bdd0-f2197c0d9ba9",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh6.ggpht.com/9c8SEaU_VJWbz1Xw__DPWs_sB4j6Z1bl3ieZRe0-279dePcw8nyxo6g6YYVH_m-prsrtSAsFTVzoIICJ560vKVjj5vQ=s0"
+      },
+      "productionPlaces": [
+        "Lage Landen",
+        "Duitsland",
+        "Frankrijk"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/BK-1976-75",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/BK-1976-75"
+      },
+      "id": "nl-BK-1976-75",
+      "objectNumber": "BK-1976-75",
+      "title": "Kan met deksel",
+      "hasImage": true,
+      "principalOrFirstMaker": "Adam van Vianen (I)",
+      "longTitle": "Kan met deksel, Adam van Vianen (I), 1614",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "b7593955-22ca-4628-89f9-4f11d4f245d2",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 5490,
+        "height": 7485,
+        "url": "https://lh3.googleusercontent.com/Ovyo5Lk0AJGQtOvaFAc3ftMiDwPgLlEhl70T93W7s5QtNm5I33t4vMsA2JJ10i5srucjNOdzjQlvyyCKf_DGKUdEirI=s0"
+      },
+      "headerImage": {
+        "guid": "f1af8da6-16f4-4357-9936-e1ed2a02928c",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh3.googleusercontent.com/0DCTJOH0oyRfYZpAjbrwz4NY0LGbjYzmSwZ6Cu-VXoULvXhjrZOi6ABJUwOOXfF1qhDocyiV2yK-dOAs9XcID2o0Ibc=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/BK-17040-A",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/BK-17040-A"
+      },
+      "id": "nl-BK-17040-A",
+      "objectNumber": "BK-17040-A",
+      "title": "Tafelstuk",
+      "hasImage": true,
+      "principalOrFirstMaker": "Wenzel Jamnitzer",
+      "longTitle": "Tafelstuk, Wenzel Jamnitzer, 1549",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "219e43c9-6b48-4861-a0af-9269dba7e7ef",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1441,
+        "height": 2500,
+        "url": "https://lh6.ggpht.com/9ulJVSDjPC6uiOPm-0Lj44cicGWRmukCmE98Ut3EAn6BhQeo76QZe_YIGiMTTX9rr4k3nqPymTmhrGjZDohEIR5ZrQ=s0"
+      },
+      "headerImage": {
+        "guid": "a7552298-f31f-4a34-b238-eab665305821",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1441,
+        "height": 346,
+        "url": "https://lh4.ggpht.com/n-uNMbZpfgUwOtBa7dOqU9KiTqsLIeGTmMoXMl6mLNoyXjsq5Mv-BjB6n8a6JfP-HK0qgvqrld_5KFALiaEAhN2yR1rk=s0"
+      },
+      "productionPlaces": [
+        "Neurenberg"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/BK-AM-33-C",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/BK-AM-33-C"
+      },
+      "id": "nl-BK-AM-33-C",
+      "objectNumber": "BK-AM-33-C",
+      "title": "Tien pleurants van het praalgraf van Isabella van Bourbon",
+      "hasImage": true,
+      "principalOrFirstMaker": "Borman werkplaats, Renier van Thienen (I)",
+      "longTitle": "Tien pleurants van het praalgraf van Isabella van Bourbon, Borman werkplaats (toegeschreven aan), Renier van Thienen (I) (toegeschreven aan), ca. 1475 - ca. 1476",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "b0e1c132-8ba4-4796-a12a-e351adb594d1",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1656,
+        "height": 2500,
+        "url": "https://lh5.ggpht.com/EHhJDrv4IB_89m9w9VlcYRYHYOuvU72iwD11oZ1HL3J5QcCMfmAD48CVxAtUwts9RT55W4lWSPI19wb1lSRZ9zecKMA=s0"
+      },
+      "headerImage": {
+        "guid": "0fc28843-cc86-4fb0-8b52-16c5f68b3c6f",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh5.ggpht.com/vMN8tGK7lHeI1Oe6_p2hFWStHqR0iUR1GdqsInkZoRdCwsYlKdqrb_2-zVX_4SxfY7p7T-HmDH-pj4fq06QCc_Xtr016=s0"
+      },
+      "productionPlaces": [
+        "Brussel (stad)"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/BK-AM-33-F",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/BK-AM-33-F"
+      },
+      "id": "nl-BK-AM-33-F",
+      "objectNumber": "BK-AM-33-F",
+      "title": "Tien pleurants van het praalgraf van Isabella van Bourbon",
+      "hasImage": true,
+      "principalOrFirstMaker": "Borman werkplaats, Renier van Thienen (I)",
+      "longTitle": "Tien pleurants van het praalgraf van Isabella van Bourbon, Borman werkplaats (toegeschreven aan), Renier van Thienen (I) (toegeschreven aan), ca. 1475 - ca. 1476",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "45d2e840-9048-45b0-b729-f6c70b7beaca",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1656,
+        "height": 2500,
+        "url": "https://lh3.ggpht.com/3bzg_jUPUnsPxCugY78L5mF-nOg9_l_7rMGkHVfTK0wUFU0J2kfZ_vMLT65F6nRDm5Ck7hy9iQoYCiWC2V1Becaj15E=s0"
+      },
+      "headerImage": {
+        "guid": "09b9e4b5-c4b0-47d1-b542-bf91fc0d297b",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh4.ggpht.com/ez_Q7kfZ-_cQXI9UV8lCTGAEkmcHzfJZQFguJEEw8JGNFVzR2SdOqXcZ4EV5YMC-VfXgeUSv_Yjc7hPLkJ6vjkZUIg=s0"
+      },
+      "productionPlaces": [
+        "Brussel (stad)"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/BK-NM-3888",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/BK-NM-3888"
+      },
+      "id": "nl-BK-NM-3888",
+      "objectNumber": "BK-NM-3888",
+      "title": "Maria met het Christuskind",
+      "hasImage": true,
+      "principalOrFirstMaker": "Adriaen van Wesel",
+      "longTitle": "Maria met het Christuskind, Adriaen van Wesel, ca. 1470 - ca. 1480",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "489a26be-8691-42a2-9102-3cb1954846ce",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1297,
+        "height": 2500,
+        "url": "https://lh6.ggpht.com/w51qt-qW6i-7WJL4SJzFLw1JQAa0lx0Kem6vI0TgQv9fFVDzLaq70UV3SmAQfdN4AhcnnspmU7eG1zaQxOu_z2z5caY=s0"
+      },
+      "headerImage": {
+        "guid": "62456a1e-566c-4ad9-b8fb-310b470def6d",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1297,
+        "height": 311,
+        "url": "https://lh4.ggpht.com/ZIgmR-zGjDdnoVaw8OgEA0mGIdwTH41FvcpD4QXWisYjD9C18FCsO5JCFWYtvcbziYlJT-CYNUp0NqBx68VTT_cgLcM=s0"
+      },
+      "productionPlaces": [
+        "Utrecht"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/BK-AM-33-I",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/BK-AM-33-I"
+      },
+      "id": "nl-BK-AM-33-I",
+      "objectNumber": "BK-AM-33-I",
+      "title": "Tien pleurants van het praalgraf van Isabella van Bourbon",
+      "hasImage": true,
+      "principalOrFirstMaker": "Borman werkplaats, Renier van Thienen (I)",
+      "longTitle": "Tien pleurants van het praalgraf van Isabella van Bourbon, Borman werkplaats (toegeschreven aan), Renier van Thienen (I) (toegeschreven aan), ca. 1475 - ca. 1476",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "9f99bd1b-a2cc-4501-96ab-4be00fdee87c",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1656,
+        "height": 2500,
+        "url": "https://lh5.ggpht.com/XfGMlfAXKb8qHOLKbcluQCUHbW24UxS5vhE6-pY77EMN0MDLgW3bCODlF1QpChtqzXW0DGI3za1WdVwE38QuIrg-CYi0=s0"
+      },
+      "headerImage": {
+        "guid": "f332a9c8-eeef-4117-9d8c-8865fe771874",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh6.ggpht.com/x1Ewi3EOvGk0SiqPbvTJVPA5qhQnEchBW-pVta29-nd8QSJV1A9seZIaynmIHXA5_zLA2EBrs3sYptY6dYWvWKgX0T87=s0"
+      },
+      "productionPlaces": [
+        "Brussel (stad)"
+      ]
+    },
+    {
+      "links": {
+        "self": "http://www.rijksmuseum.nl/api/nl/collection/BK-AM-33-A",
+        "web": "http://www.rijksmuseum.nl/nl/collectie/BK-AM-33-A"
+      },
+      "id": "nl-BK-AM-33-A",
+      "objectNumber": "BK-AM-33-A",
+      "title": "Tien pleurants van het praalgraf van Isabella van Bourbon",
+      "hasImage": true,
+      "principalOrFirstMaker": "Borman werkplaats, Renier van Thienen (I)",
+      "longTitle": "Tien pleurants van het praalgraf van Isabella van Bourbon, Borman werkplaats (toegeschreven aan), Renier van Thienen (I) (toegeschreven aan), ca. 1475 - ca. 1476",
+      "showImage": true,
+      "permitDownload": true,
+      "webImage": {
+        "guid": "a394201d-1a24-4903-8215-f01631fc6162",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1656,
+        "height": 2500,
+        "url": "https://lh6.ggpht.com/ln-rOgO6J4V-YTJ1kJBkW7mA3qE28NJYQWEW-mG4xcpsLbDneSyK6y4W0626JMxqKUOfRcfbEHcUnxPl6DIbctXs0V-R=s0"
+      },
+      "headerImage": {
+        "guid": "6859c134-9647-4beb-b7a4-75222063768e",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 0,
+        "width": 1920,
+        "height": 460,
+        "url": "https://lh6.ggpht.com/_Tu9d0pv1VzdLiSf-iR_DWOJhicysh61b4GAuL7Z1o_hINkW8rNruH9rPsZzm7ixChTgIP93LoKT9RzQ_JLJ0hggjQ=s0"
+      },
+      "productionPlaces": [
+        "Brussel (stad)"
+      ]
+    }
+  ]
+}
